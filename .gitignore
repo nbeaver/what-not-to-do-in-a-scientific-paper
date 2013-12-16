@@ -1,0 +1,21 @@
+# Ignore vim swap files
+*.swp
+# Ignore LaTeX temp files
+*.aux
+*.bbl
+*.blg
+# Log files clutter merges, so a good commit shouldn't included the log file. Only add if the build is wrong and the relevant error needs to be tracked.
+*.log
+*.out
+*.synctex.gz
+# Ignore LaTeX output files
+*.pdf
+*.dvi
+*.ps
+# Ignore Open Document spreadsheets
+*.ods
+# Ignore LibreOffice lock files, e.g. .~lock.name_of_spreadsheet.ods#
+*.ods#
+*.csv#
+# Ignore other temp files
+.md~
