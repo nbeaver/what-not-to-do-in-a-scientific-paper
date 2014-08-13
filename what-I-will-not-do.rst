@@ -14,7 +14,7 @@ What I won't do in a scientific paper.
 - I will not cite a result in another paper without quoting the relevant sentence or paragraph. I will do this to avoid confusion and provide context even when it may weaken my thesis.
 - When I cite a prior result, I will cite the first paper or papers to report a result, not a more recent paper I happened to read which cites the original papers.
 - If there is disagreement in the literature about a result, I will cite papers representative of literature, not only the one which supports my thesis.
-- I will not use `weasel`_ `words`_ like 'most', 'fairly', or 'very'. They are warning signs of a lack of diligence and clarity.
+- I will not use `weasel`_ `words`_ like 'most', 'fairly', 'quite', or 'very'. They are warning signs of a lack of diligence or clarity.
 - I will not use an acronym without defining it and displaying the definition prominantly in a list of acronyms. This will save the people reading my article time and frustration hunting for definitions of acronyms buried in the text.
 - When I cite calculations or numeric results from another paper, I will either cite them verbatim or show my calculations on the verbatim results. I will not perform calculations, show the result, and then cite the other paper. This will prevent anyone reading my paper from having to guess how I calculated my result and will make it apparent whether or not I made a mistake.
 - When writing and revising papers, I will only discuss figures which are actually shown in my paper. If figures or tables are pushed into supporting material, I will not refer to them in the published paper, but instead discuss their implications in the supporting material.
