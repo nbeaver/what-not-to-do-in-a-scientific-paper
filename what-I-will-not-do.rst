@@ -36,7 +36,7 @@ The list so far.
   This will make it easier to link my work to the work I am building on and assist the reader in consulting further literature.
 - When I cite a prior result, I will cite the first paper or papers to report a result,
   not a more recent paper which cites the original papers.
-  I will do this even when I could cite my own papers and make their citation counts higher.
+  I will do this even when I could cite my own papers and `make their citation counts higher`.
 - If there is disagreement in the literature about a result,
   I will cite papers representative of the literature,
   not only the one which supports my thesis.
@@ -65,8 +65,12 @@ The list so far.
   I will not draw conclusions based on supporting material or directly refer to it in the body of the paper.
   Instead, I will only discuss the implications of the supporting material in the supporting material.
   I will do this even when the journal's rules are draconian and inflexible,
-  because the integrity and verifiability of the scientific literature is worth it.
+  because the verifiability of the scientific literature is worth it.
+  Regardless of quality or importance,
+  scientific data are unique and non-fungible,
+  and a paper lacking a crucial figure may become work permanently lost to the scientific record.
 
 .. _conclude the data obey a power law: http://vserver1.cscs.lsa.umich.edu/~crshalizi/notebooks/power-laws.html
 .. _weasel: http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/
 .. _words: http://en.wikipedia.org/wiki/Weasel_words
+.. _make their citation counts higher: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673599/
