@@ -1,4 +1,10 @@
 # Ignore vim swap files
 *.swp
-# Ignore html that is e.g. generated from .rst files.
-*.html
+# Ignore automatically generated files.
+what-I-will-not-do.html
+
+what-I-will-not-do.tex
+what-I-will-not-do.aux
+what-I-will-not-do.log
+what-I-will-not-do.out
+what-I-will-not-do.pdf
