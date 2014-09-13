@@ -36,7 +36,7 @@ The list so far.
   This will make it easier to link my work to the work I am building on and assist the reader in consulting further literature.
 - When I cite a prior result, I will cite the first paper or papers to report a result,
   not a more recent paper which cites the original papers.
-  I will do this even when I could cite my own papers and `make their citation counts higher`.
+  I will do this even when I could cite my own papers and `make their citation counts higher`_.
 - If there is disagreement in the literature about a result,
   I will cite papers representative of the literature,
   not only the one which supports my thesis.
@@ -57,8 +57,8 @@ The list so far.
 - When I use an equation from another paper,
   I will not silently change the notation.
   I will either:
-  use the original equation unaltered
-  or
+  use the original equation unaltered;
+  or:
   alter the notation but quote the original equation in the footnote or endnote containing the citation.
 - When writing and revising a paper, I will only discuss figures which are actually contained in the paper.
   If figures or tables must be pushed into supporting material (a.k.a supplementary/supplemental/electronic-only/miscellaneous material),
