@@ -22,6 +22,8 @@ that I might have a better chance of escaping them myself.
 The list so far.
 ----------------
 
+.. TODO: link to original sources. http://sss.sagepub.com/content/44/4/638.long
+
 - I will not write anything like "It is easy to see that..." or "obviously..." or "it follows trivially...".
   If the result is obvious, that will be apparent to the reader.
   If it is not, I will have alienated the reader without cause.
