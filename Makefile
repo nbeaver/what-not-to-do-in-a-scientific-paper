@@ -21,9 +21,9 @@ readme.pdf : readme.tex readme.rst
 # Keep make from looking for a file called 'clean'
 .PHONY: clean
 clean:
-	rm --force readme.html
-	rm --force readme.tex
-	rm --force readme.pdf
-	rm --force readme.log
-	rm --force readme.aux
-	rm --force readme.out
+	rm -f readme.html
+	rm -f readme.tex
+	rm -f readme.pdf
+	rm -f readme.log
+	rm -f readme.aux
+	rm -f readme.out
