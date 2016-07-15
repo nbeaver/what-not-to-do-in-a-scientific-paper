@@ -5,25 +5,25 @@
 # This is the default target, since it comes first.
 # If you only have one target, you don't need this,
 # but otherwise it will skip all but the first target.
-all: what-I-will-not-do.html what-I-will-not-do.pdf
+all: readme.html readme.pdf
 # Prevent make from looking for a file called 'all'
 .PHONY : all
 
-what-I-will-not-do.html : what-I-will-not-do.rst
-	rst2html what-I-will-not-do.rst > what-I-will-not-do.html
+readme.html : readme.rst
+	rst2html readme.rst > readme.html
 
-what-I-will-not-do.tex : what-I-will-not-do.rst
-	rst2latex what-I-will-not-do.rst > what-I-will-not-do.tex
+readme.tex : readme.rst
+	rst2latex readme.rst > readme.tex
 
-what-I-will-not-do.pdf : what-I-will-not-do.tex what-I-will-not-do.rst
-	pdflatex -file-line-error what-I-will-not-do.tex
+readme.pdf : readme.tex readme.rst
+	pdflatex -file-line-error readme.tex
 
 # Keep make from looking for a file called 'clean'
 .PHONY: clean
 clean:
-	rm --force what-I-will-not-do.html
-	rm --force what-I-will-not-do.tex
-	rm --force what-I-will-not-do.pdf
-	rm --force what-I-will-not-do.log
-	rm --force what-I-will-not-do.aux
-	rm --force what-I-will-not-do.out
+	rm --force readme.html
+	rm --force readme.tex
+	rm --force readme.pdf
+	rm --force readme.log
+	rm --force readme.aux
+	rm --force readme.out
