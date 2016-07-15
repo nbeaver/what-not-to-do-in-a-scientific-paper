@@ -21,6 +21,8 @@ what-I-will-not-do.pdf : what-I-will-not-do.tex what-I-will-not-do.rst
 # Keep make from looking for a file called 'clean'
 .PHONY: clean
 clean:
+	rm --force what-I-will-not-do.html
+	rm --force what-I-will-not-do.tex
 	rm --force what-I-will-not-do.pdf
 	rm --force what-I-will-not-do.log
 	rm --force what-I-will-not-do.aux
